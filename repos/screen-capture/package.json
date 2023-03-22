@@ -1,0 +1,27 @@
+{
+  "name": "screen-capture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.241.0",
+    "@aws-sdk/hash-node": "^3.226.0",
+    "@aws-sdk/protocol-http": "^3.226.0",
+    "@aws-sdk/s3-request-presigner": "^3.245.0",
+    "@aws-sdk/url-parser": "^3.226.0",
+    "@aws-sdk/util-format-url": "^3.226.0",
+    "aws-sdk": "^2.1288.0",
+    "dotenv": "^16.0.3",
+    "fastify": "^4.11.0",
+    "puppeteer": "^19.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
