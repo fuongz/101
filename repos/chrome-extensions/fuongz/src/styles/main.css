@@ -1,0 +1,159 @@
+.fugon-voz
+  #top
+  > div.p-navSticky.p-navSticky--primary
+  > nav
+  > div
+  > div.p-nav-opposite
+  > div.p-navgroup.p-account.p-navgroup--member
+  > a.p-navgroup-link.p-navgroup-link--iconic.p-navgroup-link--user
+  > span.p-navgroup-linkText,
+.fugon-voz div.contentRow-main > h3 > a {
+  display: none;
+}
+
+.fugon-voz
+  #top
+  > div.p-navSticky.p-navSticky--primary
+  > nav
+  > div
+  > div.p-nav-opposite
+  > div.p-navgroup.p-account.p-navgroup--member
+  > a.p-navgroup-link.p-navgroup-link--iconic.p-navgroup-link--user
+  > span.avatar.avatar--xxs,
+.fugon-voz div.contentRow-figure > span > span > img {
+  filter: blur(5px);
+}
+
+.fugon-voz .block-header {
+  border: transparent;
+}
+
+.fugon-voz .message-cell.message-cell--user,
+.fugon-voz .message-cell.message-cell--action {
+  background: #27272a;
+  color: #999;
+  border: transparent;
+}
+
+.fugon-voz .bbCodeBlock-title {
+  background-color: #27272a;
+}
+
+.fugon-voz .message-signature,
+.fugon-voz .message-attribution.message-attribution--split {
+  border-color: #555;
+}
+
+.fugon-voz .reactionsBar {
+  background: #27272a;
+  border-right: transparent;
+  border-top: transparent;
+  border-bottom: transparent;
+}
+
+.fugon-voz .block--messages .message,
+.fugon-voz .block--messages .block-row {
+  background-color: #3f3f46;
+  color: #fff;
+  border-color: transparent;
+}
+
+.fugon-voz .message-userArrow:after {
+  border-right-color: #3f3f46;
+}
+
+.fugon-voz .message-userArrow {
+  border-right-color: #3f3f46;
+}
+
+.fugon-voz .bbCodeBlock-content {
+  background: #27272a;
+}
+
+.fugon-voz .bbCodeBlock--expandable {
+  border-right: transparent;
+  border-top: transparent;
+  border-bottom: transparent;
+}
+
+.fugon-voz .bbCodeBlock-expandLink {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, #27272a 80%);
+}
+
+.fugon-voz a {
+  color: #fff;
+}
+
+.fugon-voz .message-body a {
+  color: #f60;
+}
+
+.fugon-voz .structItem-parts > li:nth-child(even) {
+  color: #999;
+}
+
+.fugon-voz .block-filterBar {
+  background: #27272a;
+  border: transparent;
+}
+
+.fugon-voz .block-filterBar a {
+  color: #fff;
+}
+
+.fugon-voz .block-container {
+  color: #fff;
+}
+
+.fugon-voz .structItemContainer {
+  background-color: #3f3f46;
+}
+
+.fugon-voz .structItem {
+  border: 0 !important;
+}
+
+.fugon-voz .p-pageWrapper {
+  background: #18181b;
+}
+
+.fugon-voz .pageNav-page,
+.fugon-voz .pageNav-jump {
+  background: #27272a;
+  color: #fff;
+}
+
+.fugon-voz .p-nav,
+.fugon-voz .p-header {
+  background: #27272a;
+}
+
+.fugon-voz .p-nav {
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(9.4px);
+  -webkit-backdrop-filter: blur(9.4px);
+}
+
+.fugon-voz .p-sectionLinks {
+  background-color: #3f3f46;
+  color: #999;
+}
+
+.fugon-voz .p-nav-list .p-navEl.is-selected {
+  background-color: #3f3f46;
+  color: #fff;
+}
+
+.fugon-voz .pageNav-page:hover,
+.fugon-voz .pageNav-page:active,
+.fugon-voz .pageNav-page.pageNav-page--current,
+.fugon-voz .pageNav-jump:hover {
+  background-color: #3f3f46;
+  color: #fff;
+  border: transparent;
+}
+
+.fugon-voz .p-sectionLinks {
+  border-bottom: 0;
+}

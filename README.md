@@ -10,7 +10,7 @@
 ### Chrome Extensions
 
 - [3. Block-URLs - Chặn bất kỳ URLs nào bạn muốn](/repos/chrome-extensions/block-urls)
-
+- [3. Fuongz - Tùm lum thứ của tui](/repos/chrome-extensions/fuongz)
 
 ## License
 
