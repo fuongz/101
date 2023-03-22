@@ -1,0 +1,48 @@
+{
+  "name": "@phakedev/vue-template",
+  "description": "A starter vue template.",
+  "author": {
+    "email": "hi@phuongphung.com",
+    "name": "Phuong Phung",
+    "url": "https://phuongphung.com"
+  },
+  "license": "MIT",
+  "version": "0.0.2",
+  "scripts": {
+    "dev": "vite --port 5002 --host",
+    "build": "vite-ssg build",
+    "lint:script": "eslint --ext .ts,vue --ignore-path .gitignore .",
+    "preview": "vite preview --port 5002 --host"
+  },
+  "dependencies": {
+    "@vueform/multiselect": "^2.0.0",
+    "vue": "^3.1.2"
+  },
+  "devDependencies": {
+    "@iconify/json": "^1.1.361",
+    "@types/node": "^15.12.4",
+    "@typescript-eslint/eslint-plugin": "^4.28.0",
+    "@typescript-eslint/parser": "^4.28.0",
+    "@vitejs/plugin-vue": "^1.2.3",
+    "@vue/compiler-sfc": "^3.1.2",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/eslint-config-typescript": "^7.0.0",
+    "@vue/server-renderer": "^3.1.2",
+    "@vueuse/core": "^5.0.3",
+    "@vueuse/head": "^0.5.1",
+    "eslint": "^7.29.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "^7.11.1",
+    "prettier": "^2.3.1",
+    "typescript": "^4.3.4",
+    "vite": "^2.3.8",
+    "vite-plugin-icons": "^0.6.3",
+    "vite-plugin-pages": "^0.12.2",
+    "vite-plugin-windicss": "^0.16.7",
+    "vite-ssg": "^0.11.4",
+    "vue-router": "^4.0.10",
+    "vue-tsc": "^0.0.24",
+    "windicss": "^3.1.3"
+  }
+}

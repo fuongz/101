@@ -1,0 +1,12 @@
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  @apply text-gray-600;
+}
+
+html.dark body {
+  @apply bg-dark-900 text-white;
+}
